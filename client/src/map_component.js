@@ -72,6 +72,8 @@ class MapComponent extends React.PureComponent {
           zoom: 15,
         });
     })
+    // TODO:
+    // Change marker icon
   }
 
   componentDidMount() {
