@@ -5,9 +5,6 @@ import MapComponent from './map_component';
 const Index = () => {
   return (
     <div>
-      <div className="specColor">
-        Welcome to the example task!
-      </div>
       <MapComponent />
     </div>);
 };
